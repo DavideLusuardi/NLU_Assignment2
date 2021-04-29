@@ -12,7 +12,7 @@ The following Python libraries are required:
 
 The English model `en_core_web_sm` of spaCy is also required and can be downloaded running the command:
 ```
-python3 -m spacy download en_core_web_sm
+python -m spacy download en_core_web_sm
 ```
 
 ## Description
