@@ -18,3 +18,7 @@ python3 -m spacy download en_core_web_sm
 ## Description
 The source code file is a Python notebook and can be opened with Jupyter or Google Colab.
 Documentation and description of the code is present in the notebook.
+
+The `data` folder contains a subfolder `conll2003` that contains training and test dataset of CoNLL 2003.
+
+The file `conll.py` is located in root folder.
